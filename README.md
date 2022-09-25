@@ -1,5 +1,4 @@
-# Seonhwi Kim(SoinDosa)
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:83dcb7,100:00ffff&height=200&section=header&text=SoinDosa&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:83dcb7,100:00ffff&height=100&section=header&text=SoinDosa&fontSize=50)
 ## Welcome
 게임 개발을 좋아하는 소인도사입니다
 ## Stack
