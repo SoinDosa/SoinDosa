@@ -29,6 +29,8 @@
   src="https://img.shields.io/badge/EA%20Korea-000000?style=plastic&logo=EA&logoColor=white"
 /><br/>
 2022.07.04 ~ 2022.08.26 - Client Software Engineer Intern
+## Portpolio <- 추가예정
+[PDF file]()
 <!--
 **SoinDosa/SoinDosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
