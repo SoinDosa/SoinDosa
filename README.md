@@ -30,7 +30,7 @@
 ## Careers
 <img
   src="https://img.shields.io/badge/EA%20Korea-000000?style=plastic&logo=EA&logoColor=white"
-/><br/>
+/>
 2022.07.04 ~ 2022.08.26 - Client Software Engineer Intern
 <br/>
 <br/>
