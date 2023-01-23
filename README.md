@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&section=header&text=SoinDosa&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=100&section=header&text=SoinDosa&fontSize=50)
 ## Welcome
 게임 개발을 좋아하는 소인도사입니다
 
