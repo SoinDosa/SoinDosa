@@ -31,7 +31,7 @@
 <img
   src="https://img.shields.io/badge/EA%20Korea-000000?style=plastic&logo=EA&logoColor=white"
 />
-2022.07.04 ~ 2022.08.26 - Client Software Engineer Intern
+2022.07.04 ~ 2022.08.26 - FIFA Online 4 Client Software Engineer Intern
 <br/>
 <br/>
 ## Portfolio <- 추가예정
