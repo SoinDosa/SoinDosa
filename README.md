@@ -3,10 +3,10 @@
   
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=150&section=header&text=SoinDosa&fontSize=70)
   
-## Welcome
+# Welcome
 게임 개발을 좋아하는 소인도사입니다
 
-## Skills
+# Skills
 <img
   src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" align="center"
 />
@@ -33,7 +33,7 @@
 <br/>
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjsgnl519)](https://solved.ac/rlatjsgnl519/)<br/>
-## Careers
+# Careers
 <img
   src="https://img.shields.io/badge/EA%20Korea-000000?style=plastic&logo=EA&logoColor=white"
 />
@@ -41,7 +41,7 @@
 2022.07.04 ~ 2022.08.26 - FIFA Online 4 Client Software Engineer Intern
 <br/>
 <br/>
-## Portfolio <- 추가예정
+# Portfolio <- 추가예정
 [PDF file]()
 </div>
 <!--
