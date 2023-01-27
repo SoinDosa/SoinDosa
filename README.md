@@ -22,7 +22,7 @@
 <br/>
 <br/>
 <img
-  src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" align="center"
+  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" align="center"
 />
 <img
   src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" align="center"
