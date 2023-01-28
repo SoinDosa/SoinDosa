@@ -41,8 +41,8 @@
 2022.07.04 ~ 2022.08.26 - FIFA Online 4 Client Software Engineer Intern
 <br/>
 <br/>
-# Portfolio <- 추가예정
-[PDF file]()
+# Portfolio
+[PDF file](https://drive.google.com/file/d/1JQl6-0UTcxJe7gm9-KH37NpIV5zSo0w3/view?usp=sharing)
 </div>
 <!--
 **SoinDosa/SoinDosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
