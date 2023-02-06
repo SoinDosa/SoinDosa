@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=150&section=header&text=SoinDosa&fontSize=70)
   
 # Welcome
-Nice to meet you! That's all
+Nice to meet you! That's all!
 
 # Skills
 <img
