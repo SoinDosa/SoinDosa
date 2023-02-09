@@ -27,9 +27,6 @@ Nice to meet you! That's all!
 <img
   src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" align="center"
 />
-<img
-  src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=Perforce&logoColor=white" align="center"
-/>
 <br/>
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjsgnl519)](https://solved.ac/rlatjsgnl519/)<br/>
