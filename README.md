@@ -22,7 +22,7 @@ Nice to meet you! That's all!
 |Name|Platform|Genre|Role|Video Link|
 |:------:|:---:|:---:|:---:|:---:|
 |뿔없는용|Windows OS|Single Play 2D Action Platformer|Unity Client Programmer|[Link](https://www.youtube.com/watch?v=qZ4k2PJNOqw)|
-|[DreamCatcher](https://play.google.com/store/apps/details?id=com.STG_Z.DreamCatcher)|Android|Single Play Text Adventure|Unity Client Programmer|[Link](https://www.youtube.com/watch?v=hC1-DHF_040)|
+|[DreamCatcher](https://play.google.com/store/apps/details?id=com.STG_Z.DreamCatcher)|Android|Single Play Text Adventure|Unity Client Programmer / Scenario Writer|[Link](https://www.youtube.com/watch?v=hC1-DHF_040)|
 |[Sashimi Zeor](https://indie.onstove.com/ko/games/520)|Windows OS|Single Play 2D Action Platformer|Unity Client Programmer|[Link](https://www.youtube.com/watch?v=9MEL1N32TC0)|
 # Skills
 <img
