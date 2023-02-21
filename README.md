@@ -50,7 +50,7 @@
 <br/>
 <br/>
 # Portfolio
-[PDF file](https://drive.google.com/file/d/12-0XdbmgOKKVux8xXrnWX4vZZfe9T9g3/view?usp=share_link)
+[PDF file](https://drive.google.com/file/d/1l65lltWDbFPwcmGKnwBuYwuTCjHb7AIF/view?usp=sharing)
 </div>
 <!--
 **SoinDosa/SoinDosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
