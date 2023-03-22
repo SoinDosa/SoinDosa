@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=150&section=header&text=SoinDosa&fontSize=70)
   
 # Welcome
-반갑읍니다...
+마음 심(心)에 신념의 막대기를 꽂으면 반드시 필(必)
 # Careers
 <img
   src="https://img.shields.io/badge/EA%20Korea-000000?style=badge&logo=EA&logoColor=white"
