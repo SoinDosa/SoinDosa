@@ -12,12 +12,16 @@
 <br/>
 2022.07.04 ~ 2022.08.26 - FIFA Online 4 Client Software Engineer Intern
 # Experience
+### 게임제작 연합 동아리 GameMakers
+`Unity Client Programmer` 2021.02.13 ~ 2021.12.31
+### 국군지휘통신사령부 국직부대 CERT
+`취약점분석/평가병` 2018.12.13 ~ 2018.09.30<br/>
+`침해사고분석/대응병` 2019.10.01 ~ 2020.02.29<br/>
+`보안관제병` 2020.03.01 ~ 2020.05.28
 ### 학과 개발 동아리 EndlessCreation
 2017.03 ~ 2023.02<br/>
 `학술부장` 2021.01.01 ~ 2021.12.31<br/>
 `홍보부장` 2018.01.01 ~ 2018.09.01
-### 게임제작 연합 동아리 GameMakers
-`Unity Client Programmer` 2021.02.13 ~ 2021.12.31
 # Team Projects
 |Name|Platform|Genre|Role|Video Link|
 |:------:|:---:|:---:|:---:|:---:|
