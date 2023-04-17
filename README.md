@@ -28,9 +28,9 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 # Team Projects
 |Name|Platform|Genre|Role|Video|
 |:------:|:---:|:---:|:---:|:---:|
-|[뿔없는용](https://soindosa.itch.io/nohorn-dragon)|![](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=Itch.io&logoColor=black) `Windows`|Single Play 2D Action Platformer|Unity Client Programmer|[Link](https://youtu.be/I9NU2H_h_1k)|
-|[DreamCatcher](https://play.google.com/store/apps/details?id=com.STG_Z.DreamCatcher)|![](https://img.shields.io/badge/Play%20Store-414141?style=flat&logo=GooglePlay&logoColor=white)`Android`|Single Play Text Adventure|Unity Client Programmer / Scenario Writer|[Link](https://www.youtube.com/watch?v=hC1-DHF_040)|
-|[Sashimi Zero](https://indie.onstove.com/ko/games/520)|![](https://img.shields.io/badge/Stove%20Indie-FC4C02?style=flat&logo=Slides&logoColor=white)`Windows`|Single Play 2D Action Platformer|Unity Client Programmer|[Link](https://www.youtube.com/watch?v=9MEL1N32TC0)|
+|[뿔없는용](https://soindosa.itch.io/nohorn-dragon)|![](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=Itch.io&logoColor=black)<br/>`Windows`|Single Play 2D Action Platformer|Unity Client Programmer|[Link](https://youtu.be/I9NU2H_h_1k)|
+|[DreamCatcher](https://play.google.com/store/apps/details?id=com.STG_Z.DreamCatcher)|![](https://img.shields.io/badge/Play%20Store-414141?style=flat&logo=GooglePlay&logoColor=white)<br/>`Android`|Single Play Text Adventure|Unity Client Programmer / Scenario Writer|[Link](https://www.youtube.com/watch?v=hC1-DHF_040)|
+|[Sashimi Zero](https://indie.onstove.com/ko/games/520)|![](https://img.shields.io/badge/Stove%20Indie-FC4C02?style=flat&logo=Slides&logoColor=white)<br/>`Windows`|Single Play 2D Action Platformer|Unity Client Programmer|[Link](https://www.youtube.com/watch?v=9MEL1N32TC0)|
 # Skills
 <img
   src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" align="center"
