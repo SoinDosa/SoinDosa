@@ -28,7 +28,7 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 # Team Projects
 |Name|Platform|Genre|Role|Video|
 |:------:|:---:|:---:|:---:|:---:|
-|[뿔없는용](https://soindosa.itch.io/nohorn-dragon)|`Windows`|Single Play 2D Action Platformer|Unity Client Programmer|[Link](https://youtu.be/2JkYhEybTfM)|
+|[뿔없는용](https://soindosa.itch.io/nohorn-dragon)|`Windows`|Single Play 2D Action Platformer|Unity Client Programmer|[Link](https://youtu.be/I9NU2H_h_1k)|
 |[DreamCatcher](https://play.google.com/store/apps/details?id=com.STG_Z.DreamCatcher)|`Android`|Single Play Text Adventure|Unity Client Programmer / Scenario Writer|[Link](https://www.youtube.com/watch?v=hC1-DHF_040)|
 |[Sashimi Zero](https://indie.onstove.com/ko/games/520)|`Windows`|Single Play 2D Action Platformer|Unity Client Programmer|[Link](https://www.youtube.com/watch?v=9MEL1N32TC0)|
 # Skills
