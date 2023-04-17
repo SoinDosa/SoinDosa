@@ -21,10 +21,14 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 ### 학과 개발 동아리 EndlessCreation
 학술부장 `2021-01-01 ~ 2021-12-31`<br/>
 홍보부장 `2018-01-01 ~ 2018-09-01`
+# Solo Project
+|Name|Platform|Genre|Video|
+|:------:|:---:|:---:|:---:|
+|Fly Shadow (Developing), [Github](https://github.com/SoinDosa/Project_FS)|`Android`|Single Play 2D Action Platformer|[Link](https://youtu.be/otfTN1WngAU)|
 # Team Projects
-|Name|Platform|Genre|Role|Video Link|
+|Name|Platform|Genre|Role|Video|
 |:------:|:---:|:---:|:---:|:---:|
-|[뿔없는용](https://soindosa.itch.io/nohorn-dragon)|`Windows`|Single Play 2D Action Platformer|Unity Client Programmer|[Link](https://www.youtube.com/watch?v=qZ4k2PJNOqw)|
+|[뿔없는용](https://soindosa.itch.io/nohorn-dragon)|`Windows`|Single Play 2D Action Platformer|Unity Client Programmer|[Link](https://youtu.be/2JkYhEybTfM)|
 |[DreamCatcher](https://play.google.com/store/apps/details?id=com.STG_Z.DreamCatcher)|`Android`|Single Play Text Adventure|Unity Client Programmer / Scenario Writer|[Link](https://www.youtube.com/watch?v=hC1-DHF_040)|
 |[Sashimi Zero](https://indie.onstove.com/ko/games/520)|`Windows`|Single Play 2D Action Platformer|Unity Client Programmer|[Link](https://www.youtube.com/watch?v=9MEL1N32TC0)|
 # Skills
