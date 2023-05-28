@@ -24,7 +24,7 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 # Solo Project
 |Name|Platform|Genre|Video|
 |:------:|:---:|:---:|:---:|
-|Fly Shadow (Developing), [Github](https://github.com/SoinDosa/Project_FS)|`Android`|Single Play 2D Action Platformer|[Link](https://youtu.be/otfTN1WngAU)|
+|Fly Shadow (Developing), [Github](https://github.com/SoinDosa/Project_FS)|`Android`|Single Play 2D Action Platformer|[Link](https://www.youtube.com/watch?v=07V_Ira4BLo)|
 # Team Projects
 |Name|Platform|Genre|Role|Video|
 |:------:|:---:|:---:|:---:|:---:|
@@ -57,7 +57,7 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 <br/>
 <br/>
 # Portfolio
-[PDF file](https://drive.google.com/file/d/1JEwjDXVfWyIJgW0t8JFe5oh7frVM1jLZ/view?usp=share_link)
+[PDF file](https://drive.google.com/file/d/1-rN8zWT5AZyIbQ70Lb8R4yiHaJQoRtfe/view?usp=sharing)
 </div>
 <!--
 **SoinDosa/SoinDosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
