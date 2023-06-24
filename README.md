@@ -5,6 +5,7 @@
   
 # Welcome
 마음 심(心)에 신념의 막대기를 꽂으면 반드시 필(必)
+최선이 아닌 최고를
 # Careers
 <img
   src="https://img.shields.io/badge/EA%20Korea-000000?style=badge&logo=EA&logoColor=white"
