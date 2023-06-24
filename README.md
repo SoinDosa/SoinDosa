@@ -12,6 +12,8 @@
 <br/>
 FIFA Online 4 Client Software Engineer Intern `2022-07-04 ~ 2022-08-26` 
 # Experience
+### 삼성 청년 SW 아카데미 SSAFY
+`2023-07-05 ~`
 ### 게임제작 연합 동아리 GameMakers
 Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 ### 국군지휘통신사령부 국직부대 CERT
@@ -21,11 +23,12 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 ### 학과 개발 동아리 EndlessCreation
 학술부장 `2021-01-01 ~ 2021-12-31`<br/>
 홍보부장 `2018-01-01 ~ 2018-09-01`
-# Solo Project
+# Game Projects
+### Solo Projects
 |Name|Platform|Genre|Video|
 |:------:|:---:|:---:|:---:|
 |Fly Shadow (Developing), [Github](https://github.com/SoinDosa/Project_FS)|`Android`|Single Play 2D Action Platformer|[Link](https://www.youtube.com/watch?v=07V_Ira4BLo)|
-# Team Projects
+### Team Projects
 |Name|Platform|Genre|Role|Video|
 |:------:|:---:|:---:|:---:|:---:|
 |[뿔없는용](https://soindosa.itch.io/nohorn-dragon)|![](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=Itch.io&logoColor=black)<br/>`Windows`|Single Play 2D Action Platformer|Unity Client Programmer|[Link](https://youtu.be/I9NU2H_h_1k)|
@@ -46,6 +49,7 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 />
 <br/>
 <br/>
+### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjsgnl519)](https://solved.ac/rlatjsgnl519/)<br/>
 # Tools
 <img
