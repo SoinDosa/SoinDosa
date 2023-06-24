@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=150&section=header&text=SoinDosa&fontSize=70)
   
 # Welcome
-마음 심(心)에 신념의 막대기를 꽂으면 반드시 필(必)
+마음 심(心)에 신념의 막대기를 꽂으면 반드시 필(必) <br/>
 최선이 아닌 최고를
 # Careers
 <img
