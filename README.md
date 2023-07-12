@@ -10,7 +10,7 @@
   src="https://img.shields.io/badge/EA%20Korea-000000?style=badge&logo=EA&logoColor=white"
 />
 <br/>
-FIFA Online 4 Client Software Engineer Intern `2022-07-04 ~ 2022-08-26` 
+FIFA Online 4 - Client Software Engineer Intern `2022-07-04 ~ 2022-08-26` 
 # Experience
 ### 삼성 청년 SW 아카데미 SSAFY 10th
 Embedded Track `2023-07-05 ~`
