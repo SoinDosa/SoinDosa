@@ -13,8 +13,8 @@
 <br/>
 FIFA Online 4 Client Software Engineer Intern `2022-07-04 ~ 2022-08-26` 
 # Experience
-### 삼성 청년 SW 아카데미 SSAFY
-`2023-07-05 ~`
+### 삼성 청년 SW 아카데미 SSAFY 10th
+Embedded Track `2023-07-05 ~`
 ### 게임제작 연합 동아리 GameMakers
 Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 ### 국군지휘통신사령부 국직부대 CERT
