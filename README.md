@@ -21,10 +21,6 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 학술부장 `2021-01-01 ~ 2021-12-31`<br/>
 홍보부장 `2018-01-01 ~ 2018-09-01`
 # Game Projects
-### Solo Projects
-|Name|Engine|Platform|Genre|Video|
-|:------:|:---:|:---:|:---:|:---:|
-|Fly Shadow (Developing), [Github](https://github.com/SoinDosa/Project_FS)|Unity|`Android`|Single Play 2D Action Platformer|[Link](https://www.youtube.com/watch?v=07V_Ira4BLo)|
 ### Team Projects
 |Name|Engine|Platform|Genre|Role|Video|
 |:------:|:---:|:---:|:---:|:---:|:---:|
