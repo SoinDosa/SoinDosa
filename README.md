@@ -2,7 +2,7 @@
   
 # Welcome
 응애에요
-# Careers
+# Career
 <img
   src="https://img.shields.io/badge/EA%20Korea-000000?style=badge&logo=EA&logoColor=white"
 />
