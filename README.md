@@ -33,22 +33,47 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 |[Sashimi Zero](https://indie.onstove.com/ko/games/520)|Unity|![](https://img.shields.io/badge/Stove%20Indie-FC4C02?style=flat&logo=Slides&logoColor=white)<br/>`Windows`|Single Play 2D Action Platformer|Unity Client Programmer|[Link](https://www.youtube.com/watch?v=9MEL1N32TC0)|
 # Skills
 <img
-  src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" align="center"
-/>
-<img
-  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white" align="center"
+  src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" align="center"
 />
 <img
   src="https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white" align="center"
 />
 <img
-  src="https://img.shields.io/badge/Action%20Script%203.0-FF0000?style=for-the-badge&logo=Adobe&logoColor=white" align="center"
+  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white" align="center"
+/>
+<img
+  src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center"
+/>
+<img
+  src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center"
+/>
+<img
+  src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align="center"
 />
 <br/>
+<br/>
+<img
+  src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" align="center"
+/>
+<img
+  src="https://img.shields.io/badge/node%2Ejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center"
+/>
+<img
+  src="https://img.shields.io/badge/vue%2Ejs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" align="center"
+/>
+<img
+  src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" align="center"
+/>
 <br/>
 ### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjsgnl519)](https://solved.ac/rlatjsgnl519/)<br/>
 # Tools
+<img
+  src="https://img.shields.io/badge/visual%20studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" align="center"
+/>
+<img
+  src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" align="center"
+/>
 <img
   src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" align="center"
 />
