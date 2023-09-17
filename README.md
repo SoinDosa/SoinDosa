@@ -2,6 +2,8 @@
   
 # Welcome
 응애에요
+# Portfolio!
+[PDF file](https://drive.google.com/file/d/18P8JfaHGaahpD1a91HX7f-8zpQ186tfF/view?usp=sharing)
 # Career
 <img
   src="https://img.shields.io/badge/EA%20Korea-000000?style=badge&logo=EA&logoColor=white"
@@ -88,8 +90,6 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 />
 <br/>
 <br/>
-# Portfolio
-[PDF file](https://drive.google.com/file/d/15aU5LKPjNxi3WeMgPNiU45d_CP6o9H8y/view?usp=sharing)
 <!--
 **SoinDosa/SoinDosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
