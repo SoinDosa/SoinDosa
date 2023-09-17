@@ -6,8 +6,18 @@
 <img
   src="https://img.shields.io/badge/EA%20Korea-000000?style=badge&logo=EA&logoColor=white"
 />
+`2022-07-04 ~ 2022-08-26`
 <br/>
-FIFA Online 4 - Client Software Engineer Intern `2022-07-04 ~ 2022-08-26` 
+<details>
+<summary>FIFA Online 4 - Client Software Engineer Intern  </summary>
+  
+* **Action Script 3.0**
+* **Adobe Animator**
+* UI 개발
+* 신규기능 개발
+* 버그 리포팅
+</details>
+
 # Experience
 ### 삼성 청년 SW 아카데미 SSAFY 10th
 Embedded Track `2023-07-05 ~`
@@ -79,7 +89,7 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 <br/>
 <br/>
 # Portfolio
-[PDF file](https://drive.google.com/file/d/1JF9q9fxunWGBsV7SExtDQeG7a4H0xLJJ/view?usp=sharing)
+[PDF file](https://drive.google.com/file/d/15aU5LKPjNxi3WeMgPNiU45d_CP6o9H8y/view?usp=sharing)
 <!--
 **SoinDosa/SoinDosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
