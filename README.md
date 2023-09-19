@@ -3,7 +3,7 @@
 # Welcome
 응애에요
 # Portfolio!
-[PDF file](https://drive.google.com/file/d/18P8JfaHGaahpD1a91HX7f-8zpQ186tfF/view?usp=sharing)
+[PDF file](https://drive.google.com/file/d/1T3atxz9jVsZTdTx0YdA-eZJsuDCqxlgD/view?usp=sharing)
 # Career
 <img
   src="https://img.shields.io/badge/EA%20Korea-000000?style=badge&logo=EA&logoColor=white"
