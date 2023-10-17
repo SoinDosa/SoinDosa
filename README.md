@@ -58,6 +58,9 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 <img
   src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align="center"
 />
+<img
+  src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" align="center"
+/>
 <br/>
 <br/>
 <img
