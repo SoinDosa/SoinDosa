@@ -50,6 +50,9 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
   src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white" align="center"
 />
 <img
+  src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" align="center"
+/>
+<img
   src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center"
 />
 <img
@@ -58,11 +61,11 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 <img
   src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align="center"
 />
+<br/>
+<br/>
 <img
-  src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" align="center"
+  src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" align="center"
 />
-<br/>
-<br/>
 <img
   src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" align="center"
 />
