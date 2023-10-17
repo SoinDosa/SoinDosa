@@ -92,7 +92,7 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
   src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" align="center"
 />
 <img
-  src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" align="center"
+  src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white" align="center"
 />
 <br/>
 <br/>
