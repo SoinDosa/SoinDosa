@@ -33,7 +33,7 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 학술부장 `2021-01-01 ~ 2021-12-31`<br/>
 홍보부장 `2018-01-01 ~ 2018-09-01`
 
-# Embedded Mini Project
+# C Mini Project
 |Name|Stack|
 |:------:|:---:|
 |[소켓 채팅 프로그램](https://github.com/SoinDosa/Linux_Socket_Chatting)|C(Socket, Thread)|
