@@ -32,6 +32,18 @@ Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 ### 학과 개발 동아리 EndlessCreation
 학술부장 `2021-01-01 ~ 2021-12-31`<br/>
 홍보부장 `2018-01-01 ~ 2018-09-01`
+
+# Embedded Mini Project
+|Name|Stack|
+|:------:|:---:|
+|[소켓 채팅 프로그램](https://github.com/SoinDosa/Linux_Socket_Chatting)|C(Socket, Thread)|
+|[SSD 구현하기](https://github.com/SoinDosa/SSD_Implement)|C(File IO)|
+
+# Web Mini Project
+|Name|Stack|
+|:------:|:---:|
+|[포트폴리오 사이트](https://github.com/SoinDosa/PortfolioSite)|HTML/CSS/Javascript, Bootstrap|
+
 # Game Projects
 ### Team Projects
 |Name|Engine|Platform|Genre|Role|Video|
