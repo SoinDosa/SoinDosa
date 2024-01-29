@@ -6,6 +6,15 @@
 [PDF file](https://drive.google.com/file/d/1PLtrS1lCoRe1rjlI7SpeJ7j5L93O2-cc/view?usp=sharing)
 # Career
 <img
+  src="https://img.shields.io/badge/LG%20Electronics-A50034?style=badge&logo=LG&logoColor=white"
+/>
+`2024-01-08 ~`
+<br/>
+<details>
+<summary>H&A Living Solution Software R&D</summary>
+</details>
+
+<img
   src="https://img.shields.io/badge/EA%20Korea-000000?style=badge&logo=EA&logoColor=white"
 />
 `2022-07-04 ~ 2022-08-26`
