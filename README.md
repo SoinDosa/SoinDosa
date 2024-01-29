@@ -31,7 +31,7 @@
 
 # Experience
 ### 삼성 청년 SW 아카데미 SSAFY 10th
-Embedded Track `2023-07-05 ~`
+Embedded Track `2023-07-05 ~ 2023-12-18`
 ### 게임제작 연합 동아리 GameMakers
 Unity Client Programmer `2021-02-13 ~ 2021-12-31`
 ### 국군지휘통신사령부 국직부대 CERT
