@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=150&section=header&text=SoinDosa&fontSize=70)
   
 # Welcome
-응애에요
-# Portfolio!
-[PDF file](https://drive.google.com/file/d/1PLtrS1lCoRe1rjlI7SpeJ7j5L93O2-cc/view?usp=sharing)
+응애에요 
+
 # Career
 <img
   src="https://img.shields.io/badge/LG%20Electronics-A50034?style=badge&logo=LG&logoColor=white"
