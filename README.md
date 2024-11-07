@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=150&section=header&text=SoinDosa&fontSize=70)
   
 # Welcome
-응애에요 
+응애이옵니다.
 
 # Career
 <img
