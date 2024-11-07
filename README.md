@@ -10,7 +10,11 @@
 `2024-01-08 ~`
 <br/>
 <details>
-<summary>H&A Living Solution Software R&D</summary>
+<summary>H&A Living Solution Software Developer</summary>
+* **C**
+* **VS Code**
+* 가전OS 플랫폼 기반 App개발
+* 세탁기/건조기 운반(가끔^^)
 </details>
 
 <img
