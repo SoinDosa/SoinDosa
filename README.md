@@ -10,9 +10,17 @@
 `2024-01-08 ~`
 <br/>
 <details>
-<summary>HS Living Solution Software Developer</summary>
+<summary>HS Living Solution Software Developer `2024-01-08 ~`</summary>
 
-* 경량화 가전 OS 플랫폼 기반 세탁기/건조기 제품군 시스템 앱 개발
+* 경량화 가전 OS 플랫폼 기반 세탁기/건조기/워시타워 제품군 시스템 앱 개발
+  * Role
+    * 2.4" LCD 모델 양산개발 `2024-01 ~ 2025-11`
+    * 대화면 LCD 모델 양산개발 `2025-12 ~`
+    * 팀 형상관리자 `2025-10~`
+  * Skills
+    * C
+    * Linux OS
+    * Git
 </details>
 
 <img
