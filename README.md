@@ -11,6 +11,7 @@
 <br/>
 <details>
 <summary>HS Living Solution Software Developer</summary>
+
 * 경량화 가전 OS 플랫폼 기반 세탁기/건조기 제품군 시스템 앱 개발
 </details>
 
